@@ -1,0 +1,94 @@
+img{
+  width: 30rem;
+  height: auto;
+}
+
+.but{
+  display: block;
+
+}
+
+.butt{
+  padding:1rem;
+}
+
+.demo{
+  text-align: center;
+
+}
+
+.card {
+
+
+
+
+}
+.card-header-image {
+  background-size: cover;
+}
+.for-more {
+  width: 100%;
+  text-align: center;
+  font-size: larger;
+  margin-bottom: 20px;
+}
+.mat-card{
+  color: #000000;
+  background-color: #fff;;
+}
+button{
+  padding: 0 6px 0 6px;
+  margin: 6px 8px 6px 8px;
+  min-width: 88px;
+  border-radius: 3px;
+  font-size: 14px;
+  text-align: center;
+  text-transform: uppercase;
+  text-decoration:none;
+  border: none;
+  outline: none;
+  font-size: 16px;
+  border-radius: 0;
+  box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.541);
+  min-width: 30%;
+  -webkit-border-radius: 3px;
+  -moz-border-radius: 3px;
+  -ms-border-radius: 3px;
+  -o-border-radius: 3px;
+}
+
+.image-new{
+  border-radius: 2px ;
+  -webkit-border-radius: 2px ;
+  -moz-border-radius: 2px ;
+  -ms-border-radius: 2px ;
+  -o-border-radius: 2px ;
+
+  border: 1rem solid wheat;
+  box-shadow: 0 4px 8px 0 rgba(241, 194, 107, 0.527), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+
+}
+
+
+.name{
+  text-align: center;
+}
+
+.title{
+padding: 2rem;
+color: black;
+}
+.title-name{
+  font-size: 3rem;
+font-family: 'Anton', sans-serif;
+}
+
+.title-sm-name{
+ font-size: 1rem;
+  font-family: 'Caveat', cursive;
+
+}
+
+.title-sm{
+  margin-top: -8px;
+}
